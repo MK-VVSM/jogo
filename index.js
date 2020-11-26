@@ -121,7 +121,7 @@ function update() {
   }
 
   if (cursors.up.isDown && player.body.touching.down) {
-    player.setVelocityY(-340);
+    player.setVelocityY(-330);
   }
 }
 
